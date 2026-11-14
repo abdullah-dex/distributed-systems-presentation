@@ -1,4 +1,4 @@
-# Operating Systems Chapter 17: Distributed Systems & Distributed File Systems
+# ⚙️ Operating Systems Chapter 17: Distributed Systems & Distributed File Systems
 
 A collaborative presentation and speaker guide prepared by the group for Operating System Concepts (Silberschatz).
 
