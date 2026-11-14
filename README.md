@@ -21,3 +21,5 @@ A collaborative presentation and speaker guide prepared by the group for Operati
 * **1. Hook with the Analogy (15–20 sec):** Grab attention with an everyday comparison before introducing technical terms.
 * **2. Deliver the Script (45–60 sec):** Walk through slide concepts clearly and calmly without reading text word-for-word.
 * **3. Pass the Baton (5 sec):** Use smooth handoff sentences between teammates.
+
+https://docs.google.com/presentation/d/1d7DzEGvc7XlW1Phf0vnpXD8y-Vg_1g4mhtf5nAshNJ4/edit?usp=sharing
